@@ -1,0 +1,62 @@
+{
+  "tt-irlgamepack": {
+    "platform": "TT",
+    "url": "https://www.tiktok.com/@irlgamepack",
+    "brand": "mm"
+  },
+  "tt-maxed-stackz": {
+    "platform": "TT",
+    "url": "https://www.tiktok.com/@maxedstackz",
+    "brand": "mm"
+  },
+  "tt-tjr-vibes": {
+    "platform": "TT",
+    "url": "https://www.tiktok.com/@tjr.vibes",
+    "brand": "tjr"
+  },
+  "yt-bagz-chaserr": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@bagzchaserr",
+    "brand": "cctv"
+  },
+  "yt-monstervisionx": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@monstervisionx",
+    "brand": "mm"
+  },
+  "yt-puretjr": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@puretjr",
+    "brand": "tjr"
+  },
+  "yt-risk-maxxer": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@riskmaxxer",
+    "brand": "mm"
+  },
+  "yt-road-stepperz": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@roadstepperz",
+    "brand": "cctv"
+  },
+  "yt-traffic-vibez": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@trafficvibez",
+    "brand": "cctv"
+  },
+  "yt-zombie-clipp": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@zombieclipp",
+    "brand": "mm"
+  },
+  "yt-zombie-empires": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@zombiempires",
+    "brand": "mm"
+  },
+  "yt-zombievisionn": {
+    "platform": "YT",
+    "url": "https://www.youtube.com/@zombievisionn",
+    "brand": "mm"
+  }
+}
